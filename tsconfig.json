@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react"
+    },
+    "files": [
+        "./typings/index.d.ts",
+        "./src/components/Main.tsx",
+        "./src/components/Header.tsx",
+        "./src/components/TopImg.tsx",
+        "./src/components/Content1.tsx",
+        "./src/components/Content2.tsx",
+        "./src/index.tsx"
+    ]
+}
